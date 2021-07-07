@@ -1,0 +1,21 @@
+{
+    "accesstoken": "r:d164e7a58e246c43877517a985490c0a",
+    "myqnapcloudHost": "Simslab.myqnapcloud.com",
+    "clientId": "Device_1625685827",
+    "host": [
+        "192.168.1.10"
+    ],
+    "requesterid": "d749f748-72fb-428a-a871-74abddffc05c",
+    "port": 23000,
+    "resources": [
+        {
+            "description": "",
+            "datatype": "String",
+            "resourceid": "data",
+            "topic": "qiot/things/admin/Device/data",
+            "resourcename": "data",
+            "resourcetypename": "Custom Sensor(String)",
+            "unit": "°C"
+        }
+    ]
+}
